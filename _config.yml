@@ -1,1 +1,6 @@
 theme: minima
+
+title: Formation Jé
+
+minima:
+  skin: dark
